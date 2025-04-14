@@ -1,6 +1,6 @@
 # Weather App
 
-https://weather-api.streamlit.app/
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://weather-api.streamlit.app/)
 
 Welcome to the Weather App! This tool provides you with up-to-date weather information for any city you specify. Follow the instructions below to get started:
 
